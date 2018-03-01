@@ -14,4 +14,4 @@ public class Main {
 //Loop to read file
 //Add data to array
 //End of file
-    }
+    }}
